@@ -1,0 +1,16 @@
+.tbl{
+    font-size: 20px;
+    width: 20px;
+    padding: 20px;
+    padding-left: 30px;
+    border-color: rgb(87, 28, 196);
+}
+.papers{
+    font-size: 18px;
+}
+.mid{
+    font-size: 25px;
+}
+.bdy{
+    background-image: url(educatin.jpg);
+}

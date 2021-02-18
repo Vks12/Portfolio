@@ -1,0 +1,88 @@
+.hdr {
+    margin-left: 900px;
+    margin-right: 10px;
+    text-decoration: none;
+    margin-top: -100px;
+    padding: 30px; 
+    font-size: 20px;
+}
+.hdr li{
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none; 
+    color: #000;
+}
+.hdr li a{
+    text-decoration: none; 
+    color: #000;
+
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+.dtl{
+    font-size: 30px;
+    margin-top: -10px;
+    padding-left: 50px;
+}
+.ftr{
+    text-align: center;
+}
+.bd{
+    background-color: blue;
+}
+.intrst{
+    margin-left: 500px;
+    font-size: 37px;
+    font-family: monospace; 
+    margin-top: 30px;
+}
+table{
+    margin-top: 0px;
+}
+.lst{
+    margin-top: 400px;
+}
+.area_interest{
+    position: absolute; 
+    text-align: center;
+    margin-top: 50px;
+}
+
+.area_interest .area_interest1{
+    display: inline-block; 
+    border: 1px solid #000; 
+    height: 300px; 
+    width: 200px; 
+    margin-left: 150px; 
+    border-radius: 5px;
+}
+.area_interest .area_interest2{
+    display: inline-block; 
+    border: 1px solid #000; 
+    height: 300px; 
+    width: 200px; 
+    margin-left: 200px; 
+    border-radius: 5px;
+}
+
+.area_interest .area_interest1 img{
+    width: 200px;
+    height: 230px;
+    border-radius: 0px; 
+}
+
+.area_interest .area_interest2 img{
+    width: 200px;
+    height: 230px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; 
+    text-align: center;
+
+}
+
+img{
+    width: 200px;
+    border-radius: 5px;
+}
